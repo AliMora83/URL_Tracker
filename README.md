@@ -30,12 +30,12 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#installation">Installation Raodmap</a></li>
-        <li><a href="#howto">How to use extension</a></li>
+        <li><a href="#installation-roadmap">Installation Raodmap</a></li>
+        <li><a href="#how-to-use-extension">How to use extension</a></li>
       </ul>
     </li>
     <li>
-       <a href="#tech">Technologies used</a>
+       <a href="#technologies-used">Technologies used</a>
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>

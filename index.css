@@ -9,6 +9,7 @@
     padding: 10px;
     font-family: sans-serif;
     min-width: 400px;
+    background: #fafafa;
 }
 
 input {
@@ -18,6 +19,7 @@ input {
     border: 1px solid var(--dark);
     margin-bottom: 4px;
     border-radius: 8px;
+    background: white;
 }
 
 button {

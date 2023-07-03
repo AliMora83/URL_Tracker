@@ -77,6 +77,7 @@ Drag and drop the extension file onto the extension management page to install i
 - [ ] Hover over any button for more info on it.
 - [ ] Click anywhere outside the extentsion, to close it.
 - [ ] Saved URLs will persist until deleted.
+- [ ] Click on saved URL, to open on new tab.
 
 <br>
 <br>

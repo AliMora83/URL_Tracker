@@ -31,11 +31,8 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation Raodmap</a></li>
-        <li><a href="#prerequisites">How to use extension</a></li>
+        <li><a href="#howto">How to use extension</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#usage-overview">Usage overview</a>
     </li>
     <li>
        <a href="#technologies">Technologies used</a>
@@ -71,6 +68,7 @@ Drag and drop the extension file onto the extension management page to install i
 - [ ] Step 1: Open browser extensions.
 - [ ] Step 2: **Locate URL Tracker** and **pin it**.
 
+<!-- HOWTO -->
 ## How to use extension
 ![Install](url_use.png)
 - [ ] Step 1: Locate extention.

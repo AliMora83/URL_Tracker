@@ -75,6 +75,8 @@ Drag and drop the extension file onto the extension management page to install i
 - [ ] Step 2: Press 'Save Tab' button.
 - [ ] If you see the active tab URL, it works!
 - [ ] Hover over any button for more info on it.
+- [ ] Click anywhere outside the extentsion, to close it.
+- [ ] Saved URLs will persist until deleted.
 
 <br>
 <br>

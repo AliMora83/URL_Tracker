@@ -35,7 +35,7 @@
       </ul>
     </li>
     <li>
-       <a href="#technologies">Technologies used</a>
+       <a href="#tech">Technologies used</a>
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -95,7 +95,7 @@ Drag and drop the extension file onto the extension management page to install i
 
 <br />
 
-<!-- TECHNOLOGIES -->
+<!-- TECH -->
 ## Technologies used
 
 <p align="left">

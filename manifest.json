@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "version": "1.2.2",
+  "name": "NAMKA - Leads tracker",
+  "description": "Quickly save/delete important URLs",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": ["tabs"]
+}

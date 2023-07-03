@@ -1,0 +1,99 @@
+:root {
+    --dark: #001C30;
+    --grey: #176B87;
+    --grad: linear-gradient(to bottom right, #001C30, #164B60);
+  }
+  
+  body {
+    margin: 0;
+    padding: 10px;
+    font-family: sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid var(--dark);
+    margin-bottom: 4px;
+    border-radius: 8px;
+}
+
+button {
+    background: var(--grad);
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid var(--dark);
+    font-weight: semibold;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(22, 75, 96, 0.4);
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+#delete-btn {
+    background: white;
+    color: var(--dark);
+}
+
+button:hover {
+    transform: scale(0.95);
+  }
+
+  span.popup {
+    height: 0;
+    color: var(--dark);
+    position: relative;
+    cursor: pointer;
+}
+
+span.popup:after {
+    content: attr(data-popuptext);
+    opacity: 0;
+    top: 0;
+    left: -100;
+    position: absolute;
+    transition: 500ms ease;
+    white-space: nowrap;
+    max-height: 0;
+    padding: 0.8em;
+    color: var(--grey);
+    font-size: 12px;
+
+    &:hover:after {
+        opacity: 1;
+        top: 1.2em;
+        max-height: 200px;
+        padding: .4em;
+      }
+}
+
+button:hover span.popup:after {
+    opacity: 1;
+    top: 1.8em;
+    max-height: 200px;
+}
+
+/* Adjust the position of the popup text */
+span.popup:after {
+    bottom: 100%; /* Position the popup text above the button */
+    margin-bottom: 5px; /* Add some space between the popup text and the button */
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+a {
+    color: var(--dark);
+}
+
+

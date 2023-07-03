@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/chingu-voyages/v44-tier3-team-29">
+  <a href="https://github.com/AliMora83/URL_Tracker">
     <img src="./icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -28,17 +28,17 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#usage-overview">Usage overview</a>
-    </li>
-    <li>
-       <a href="#technologies">Technologies used</a>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation Raodmap</a></li>
         <li><a href="#prerequisites">How to use extension</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#usage-overview">Usage overview</a>
+    </li>
+    <li>
+       <a href="#technologies">Technologies used</a>
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -51,7 +51,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### [Download Extention](https://www.openai.com)
+### [Download Extention](https://github.com/AliMora83/URL_Tracker/blob/main/URL_Tracker.zip)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -10,7 +10,7 @@
 <h1 align="center">URL Tracker</h1>
 
   <p align="center">
-    URL Tracker is a local web extention built using HTML, CSS, JavaScript. The aim of this extension is to conveniently save, insert and delete URLs.
+    URL Tracker is a local web extention built using HTML, CSS and JavaScript. The aim of this extension is to conveniently insert, save and delete URLs.
     <br />
     <a href="https://github.com/AliMora83/URL_Tracker/blob/main/URL_Tracker.zip">Download Extention</a>
     ·
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-![Screenshot](url_tracker.png)
+![Screenshot](./public/url_tracker.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -59,18 +59,18 @@ To get a local copy up and running follow these simple example steps.
 
 - [ ] Locate 'URL_Tracker.zip' on your computer.
 - [ ] Unzip the folder.
-- [ ] In Google Chrome, navigate to chrome://extensions.
-Enable developer mode(similar option if required).
+- [ ] In Google Chrome, navigate to ```chrome://extensions```.
+- [ ] Enable developer mode(similar option if required).
 Drag and drop the extension file onto the extension management page to install it. Alternatively, use the "Load unpacked" or "Install" button.
 - [ ] Ensure the extension is enabled if it's not already.
 
-![Install](url_install.png)
+![Install](./public/url_install.png)
 - [ ] Step 1: Open browser extensions.
 - [ ] Step 2: **Locate URL Tracker** and **pin it**.
 
 <!-- HOWTO -->
 ## How to use extension
-![Install](url_use.png)
+![Install](./public/url_use.png)
 - [ ] Step 1: Locate extention.
 - [ ] Step 2: Press 'Save Tab' button.
 - [ ] If you see the active tab URL, it works!
@@ -139,7 +139,6 @@ Ali Mora - [Website](https://alimora-portfolio.vercel.app/) - ali@openmindi.co.z
 <br>
 
 This project started **July 1st, 2023**. 
-
 Upgrades in progress.
 
 

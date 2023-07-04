@@ -12,7 +12,7 @@
   <p align="center">
     URL Tracker is a local web extention built using HTML, CSS and JavaScript. The aim of this extension is to conveniently insert, save and delete URLs.
     <br />
-    <a href="https://github.com/AliMora83/URL_Tracker/blob/main/URL_Tracker.zip">Download Extention</a>
+    <a href="https://rebrand.ly/url_tracker">Download Extention</a>
     ·
     <a href="https://github.com/AliMora83/URL_Tracker/issues">Report Bug</a>
   </p>
@@ -48,7 +48,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### [Download Extention](https://github.com/AliMora83/URL_Tracker/blob/main/URL_Tracker.zip)
+### [Download Extention](https://rebrand.ly/url_tracker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

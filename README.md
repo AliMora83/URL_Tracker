@@ -10,7 +10,7 @@
 <h1 align="center">URL Tracker</h1>
 
   <p align="center">
-   The aim of this extension is to conveniently insert, save and delete URLs. It is a local web extention built using HTML, CSS and JavaScript. 
+   The aim of this extension is to conveniently insert, save and delete URLs. It is a local web extention built using HTML, CSS and JavaScript.. 
     <br />
     <a href="https://rebrand.ly/url_tracker">Download Extention</a>
     ·

@@ -9,6 +9,7 @@
     padding: 10px;
     font-family: sans-serif;
     min-width: 400px;
+    max-width: 500px;
     background: #fafafa;
 }
 
@@ -54,7 +55,7 @@ span.popup:after {
     content: attr(data-popuptext);
     opacity: 0;
     top: 0;
-    left: -100;
+    left: -103;
     position: absolute;
     transition: 500ms ease;
     white-space: nowrap;
@@ -67,7 +68,7 @@ span.popup:after {
         opacity: 1;
         top: 1.2em;
         max-height: 200px;
-        padding: .4em;
+        padding: 0.4em;
       }
 }
 
@@ -86,12 +87,16 @@ span.popup:after {
 ul {
     margin-top: 20px;
     list-style: none;
-    padding-left: 0;
+    padding: 20px 0;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+
 }
 
 li {
-    margin-top: 5px;
-    padding-left: 20px;
+    margin-bottom: 10px;
+    padding-left: 15px;
 }
 
 a {

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "1.3.0",
+  "version": "1.3.2",
   "name": "URL_Tracker",
   "description": "Quickly save/delete important URLs",
   "action": {
